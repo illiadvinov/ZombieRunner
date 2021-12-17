@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8997bad1875997a40a8f42c78eaf1a4c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Gothican
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 14448963ad8f4e94ab4646d8642f4f39, type: 3}
+  - {fileID: 12800000, guid: d334e4330b648004ba95357f226ff091, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
